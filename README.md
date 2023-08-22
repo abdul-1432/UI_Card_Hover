@@ -24,11 +24,11 @@ You can include UI Card Hovers in your project using the following methods:
 
 1. **CDN**: Include the following stylesheet in the `<head>` section of your HTML file:
 
-   ```html
-   <link rel="stylesheet" href="https://cdn.example.com/ui-card-hovers.min.css">
+   ```HTML
+   <link rel="stylesheet" href="https://github.com/abdul-1432/UI_Card_Hover/blob/main/UI%20Card%20Hovers/home.html">
    ```
 
-2. **Download**: Download the `ui-card-hovers.min.css` file from this repository and link it in your HTML.
+2. **Download**: Download the `ui-card-hovers.min.css` file from this repository and link it to your HTML.
 
 ### Usage
 
