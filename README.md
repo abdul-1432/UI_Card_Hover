@@ -42,7 +42,7 @@ You can include UI Card Hovers in your project using the following methods:
 
 2. Choose a hover effect class and add it to the card container element:
 
-   ```html
+   ```HTML
    <div class="ui-card ui-card-flip">
        <!-- Card content goes here -->
    </div>
