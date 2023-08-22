@@ -2,6 +2,7 @@
 
 UI Card Hovers is a lightweight and customizable library for adding interactive hover effects to cards in your web projects. This library simplifies the process of creating engaging user interfaces by adding dynamic and visually appealing hover animations to your card components.
 
+![1](https://github.com/abdul-1432/UI_Card_Hover/assets/124916666/43e2f778-a358-4697-a204-aae6f7937f43)
 
 ## Features
 
