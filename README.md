@@ -34,7 +34,7 @@ You can include UI Card Hovers in your project using the following methods:
 
 1. Add the `ui-card` class to your card container element:
 
-   ```html
+   ```HTML
    <div class="ui-card">
        <!-- Card content goes here -->
    </div>
