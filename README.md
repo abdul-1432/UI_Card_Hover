@@ -61,11 +61,11 @@ You can include UI Card Hovers in your project using the following methods:
 
 ### Example
 
-```html
+```HTML
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="https://cdn.example.com/ui-card-hovers.min.css">
+    <link rel="stylesheet" href="https://github.com/abdul-1432/UI_Card_Hover/blob/main/UI%20Card%20Hovers/style.css">
     <style>
         /* Additional custom styles */
         .ui-card {
